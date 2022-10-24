@@ -1,5 +1,5 @@
 ### Question
-Country(ies) with the most tourneys won
+Countries with the most tourneys won
 
 ### Answer
 Brazil
