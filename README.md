@@ -9,5 +9,6 @@ Link to challenge: https://curbal.com/25-days-of-dax-fridays-challenge-ed1-north
 
 ## Edition 2 - Oct 2022 challenge (World Cup)
 Link to challenge: https://curbal.com/25-days-of-dax-fridays-challenge-ed2-world-cup-data
+<br>
 Solutions posted for Days 1 through 10.
 <br>
