@@ -1,9 +1,6 @@
 ### Question
 Countries with the most tournament appearances
 
-### Answer
-Brazil
-
 ### Code (Measure)
 
 ```

@@ -1,10 +1,10 @@
 ### Question
 Countries with most consecutive championships
 
-### Answer
-Brazil, Italy
-
 ### Code (Measure)
+
+// Jen's note: this code would not work if there was a team with more consecutive wins vs. another consecutive win
+// I would need to have a TOPN in that case.
 
 ```
 D09 Most Consecutive Wins =

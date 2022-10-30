@@ -1,9 +1,6 @@
 ### Question
 Biggest gap in years between wins
 
-### Answer
-12 years
-
 ### Code (Measure)
 
 ```

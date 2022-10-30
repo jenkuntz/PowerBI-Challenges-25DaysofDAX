@@ -1,9 +1,6 @@
 ### Question
 Longest gap in years between titles
 
-### Answer
-44 years
-
 ### Code (Measure)
 
 ```

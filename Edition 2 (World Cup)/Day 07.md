@@ -1,9 +1,6 @@
 ### Question
 Countries with the most Top 2 finishes
 
-### Answer
-Brazil
-
 ### Code (Measure)
 
 ```

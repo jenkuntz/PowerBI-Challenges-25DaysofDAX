@@ -1,9 +1,6 @@
 ### Question
 Countries who hosted the most tournaments
 
-### Answer
-Brazil, France, Italy, Mexico
-
 ### Code (Measure)
 
 ```

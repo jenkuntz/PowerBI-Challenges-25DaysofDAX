@@ -1,8 +1,5 @@
 ### Question
-Countries with the most tourneys won
-
-### Answer
-Brazil
+Countries with the most tournament wins
 
 ### Code (Measure)
 

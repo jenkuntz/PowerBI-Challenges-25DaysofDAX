@@ -1,9 +1,6 @@
 ### Question
 Host countries that won
 
-### Answer
-Argentina, England, France, Italy, Uruguay, West Germany
-
 ### Code (Measure)
 
 ```

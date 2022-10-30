@@ -1,9 +1,6 @@
 ### Question
 Most 2nd place finishes
 
-### Answer
-Argentina, Netherlands, West Germany
-
 ### Code (Measure)
 
 ```

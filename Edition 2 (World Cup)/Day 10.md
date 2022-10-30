@@ -1,9 +1,6 @@
 ### Question
 Countries who played the most finals and never lost
 
-### Answer
-Uruguay
-
 ### Code (Measure)
 
 ```
